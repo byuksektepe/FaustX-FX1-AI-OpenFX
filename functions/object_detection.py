@@ -4,7 +4,7 @@ import numpy as np
 stability = 0.4
 
 class ObjectDetection:
-    def __init__(self, weights_path="dnn_model/yolov4-sm.weights", cfg_path="dnn_model/yolov4-sm.cfg"):
+    def __init__(self, weights_path="dnn_models/yolov4-sm.weights", cfg_path="dnn_configs/yolov4-sm.cfg"):
         print("FaustX Object Tracking Loading...")
         print("Running opencv and nvidia cudnn")
         #Kararlılık Ayarı

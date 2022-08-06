@@ -1,4 +1,4 @@
-from functions.object_detection import ObjectDetection, KalmanFilter, BgDetector
+from detection_systems.object_detection import ObjectDetection, KalmanFilter, BgDetector
 from functions.telemetry_functions import telemetry as tl
 from functions.drawing_functions import text_details ,draw as dr
 import cv2

@@ -1,4 +1,6 @@
-from detection_systems.object_detection import ObjectDetection, KalmanFilter, BgDetector
+from detection_systems.object_detection import ObjectDetection
+from detection_systems.kalman_filter import KalmanFilter
+from detection_systems.background_detector import BackgroundDetector
 from functions.telemetry_functions import telemetry as tl
 from functions.drawing_functions import text_details ,draw as dr
 import cv2
@@ -6,7 +8,7 @@ import winsound
 
 od = ObjectDetection()
 kf = KalmanFilter()
-bg = BgDetector()
+bg = BackgroundDetector()
 dr_td = text_details()
 
 class lcl_var:

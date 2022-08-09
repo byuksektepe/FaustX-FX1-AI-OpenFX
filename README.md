@@ -4,7 +4,8 @@
 <a href="https://www.faustx.com/en/fx1-tests" rel="fx1ai"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/FaustX-Flight-Records/blob/main/Images/114x40-one-ai.png" alt="fx-1ai" /></a>
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=OpenCV&logoColor=white)
-<a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-u" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-u.png" alt="tc-u" /></a>
+![CuDNN](https://img.shields.io/badge/Nvidia%20CuDNN-000000?style=for-the-badge&logo=Nvidia&logoColor=white)
+<a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-u" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-u.png" alt="tc-u" /></a>
 <br/>
 This project is licensed under a MIT</a>.
 

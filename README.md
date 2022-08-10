@@ -9,7 +9,7 @@
 <br/>
 This project is licensed under Massachusetts Institute of Technology.
 
-Copyright (c) 2022 FaustX Technology.
+Copyright (c) 2022 FaustX Technology/Berkant Yüksektepe.
  
  <p>Stay tuned, more detail and setup procedure to be added soon.</p>
  

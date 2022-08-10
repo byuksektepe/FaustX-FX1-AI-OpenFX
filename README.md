@@ -7,7 +7,7 @@
 ![CuDNN](https://img.shields.io/badge/Nvidia%20CuDNN-000000?style=for-the-badge&logo=Nvidia&logoColor=white)
 <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-u" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-u.png" alt="tc-u" /></a>
 <br/>
-This project is licensed under a MIT</a>.
+This project is licensed under Massachusetts Institute of Technology.
 
 Copyright (c) 2022 FaustX Technology.
  

@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![CuDNN](https://img.shields.io/badge/Nvidia%20CuDNN-000000?style=for-the-badge&logo=Nvidia&logoColor=white)
+ <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-wb"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-box/114x40-wb.png" alt="tc-wb" /></a>
 <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-u" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-u.png" alt="tc-u" /></a>
 <br/>
 
